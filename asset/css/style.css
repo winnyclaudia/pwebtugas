@@ -1,0 +1,72 @@
+body {
+  background-color: pink;
+  
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+a:link, a:visited, a:active
+{
+  width: 200px;
+  margin: 2px;
+  background-color: #059305;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover
+{
+  width: 200px;
+  margin: 2px;
+  background-color: #c60909;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#lagu
+{
+  text-align: center;
+  font-family: verdana;
+  font-size: 18px;
+  font-style: italic;
+  color: #fff;
+}
+
+.isi
+{
+  background-color: red;
+  width: 400px;
+  height: 600px;
+  float: right;
+  text-align: center;
+
+}
+.kop
+{
+  background-color: white;
+  width: 1200px;
+  height: 100px;
+  float: right;
+}
+
+.menu
+{
+  text-align: center;
+}
